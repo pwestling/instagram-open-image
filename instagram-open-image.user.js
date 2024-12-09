@@ -1,5 +1,6 @@
 // ==UserScript==
 // @name         Open Instagram Image on Middle-Click
+// @author       thehivemind5@gmail.com
 // @namespace    http://tampermonkey.net/
 // @version      0.2
 // @description  Middle-click an Instagram image to open it in a new tab
